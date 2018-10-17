@@ -1,7 +1,7 @@
 {
   "name": "e-com-bites",
   "version": "1.0.0",
-  "description": "Bite-sized e-commerce solutions that you can use in today.",
+  "description": "Bite-sized e-commerce code snippets that you can use today.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antibland/e-com-bites/issues"
   },
-  "homepage": "https://github.com/antibland/e-com-bites#readme"
+  "homepage": "https://github.com/antibland/e-com-bites#readme",
+  "dependencies": {
+    "eslint": "^5.7.0"
+  }
 }
