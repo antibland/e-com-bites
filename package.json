@@ -1,0 +1,19 @@
+{
+  "name": "e-com-bites",
+  "version": "1.0.0",
+  "description": "Bite-sized e-commerce solutions that you can use in today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antibland/e-com-bites.git"
+  },
+  "author": "Andy Hoffman <antibland@gmail.com> (https://andyhoffman.codes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antibland/e-com-bites/issues"
+  },
+  "homepage": "https://github.com/antibland/e-com-bites#readme"
+}
